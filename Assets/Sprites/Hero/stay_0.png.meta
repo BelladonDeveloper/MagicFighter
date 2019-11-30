@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 90940878464956443bf9dc62b9299377
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7581625337653667952
+    second: stay_0_0
+  - first:
+      213: 456697448098141255
+    second: stay_0_1
+  - first:
+      213: -779422076436291526
+    second: stay_0_2
+  - first:
+      213: -1481063343714777425
+    second: stay_0_3
+  - first:
+      213: -4438316783433405445
+    second: stay_0_4
+  - first:
+      213: -1401602280405907660
+    second: stay_0_5
+  - first:
+      213: 2710822899293309721
+    second: stay_0_6
+  - first:
+      213: 5337724131042168669
+    second: stay_0_7
+  - first:
+      213: -4055081098330671097
+    second: stay_0_8
+  - first:
+      213: 3711153487111621726
+    second: stay_0_9
+  - first:
+      213: -8562378266134201309
+    second: stay_0_10
+  - first:
+      213: 6404154992433142085
+    second: stay_0_11
+  - first:
+      213: -6699262077524719473
+    second: stay_0_12
+  - first:
+      213: 1414795682852479968
+    second: stay_0_13
+  - first:
+      213: -5687864459501858892
+    second: stay_0_14
+  - first:
+      213: -7631109361832329726
+    second: stay_0_15
+  - first:
+      213: -2572103949538223121
+    second: stay_0_16
+  - first:
+      213: -3517020123149521312
+    second: stay_0_17
+  - first:
+      213: 8252838135905099736
+    second: stay_0_18
+  - first:
+      213: 7716726526584371336
+    second: stay_0_19
+  - first:
+      213: -8617191626270009006
+    second: stay_0_20
+  - first:
+      213: -5680529957956305171
+    second: stay_0_21
+  - first:
+      213: -1571110308279328597
+    second: stay_0_22
+  - first:
+      213: -4062762596063760618
+    second: stay_0_23
+  - first:
+      213: 341058728453134442
+    second: stay_0_24
+  - first:
+      213: 6741955668172876819
+    second: stay_0_25
+  - first:
+      213: 8565292640712555976
+    second: stay_0_26
+  - first:
+      213: 5174247077601846176
+    second: stay_0_27
+  - first:
+      213: -8604168057929501353
+    second: stay_0_28
+  - first:
+      213: 3675731070741943331
+    second: stay_0_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stay_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1799
+        width: 188
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27aee540213ee84089d83a1b665a5de
+      internalID: -7581625337653667952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1799
+        width: 189
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528997f824bd50c4dbf40e278749adc2
+      internalID: 456697448098141255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1799
+        width: 190
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35dc27d1ebd584c90041be46754b38
+      internalID: -779422076436291526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1799
+        width: 189
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298929167b986b047b9083b68bd0503b
+      internalID: -1481063343714777425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_4
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1799
+        width: 190
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f03ace0bb7ad4cb0dc7e656bfa4c6
+      internalID: -4438316783433405445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1799
+        width: 195
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6590fe10cf2d4dd4bb25cf060377adeb
+      internalID: -1401602280405907660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1349
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4920e2d789219e849bf68a25df795a4b
+      internalID: 2710822899293309721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1349
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da170a62035f2f941871fb09a3a3720d
+      internalID: 5337724131042168669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1349
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee37be12931f0244bcab7b69ca6f824
+      internalID: -4055081098330671097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1349
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27593ef87d011244f98e8f1a31c83634
+      internalID: 3711153487111621726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_10
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1349
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6165b38a9e373a4c81404fddffbc098
+      internalID: -8562378266134201309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_11
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1349
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310b41fccc079a4b8f498b9858d305a
+      internalID: 6404154992433142085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688ccf0d0fa9ece4183929b1c6edfe80
+      internalID: -6699262077524719473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27163c72575c745a92f7394eaa09cc
+      internalID: 1414795682852479968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2c448cc6222f478895d1f46662dce
+      internalID: -5687864459501858892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2d8db1ca523704ab765c47eabdd7bb
+      internalID: -7631109361832329726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdeee6529932374fb890366885e9440
+      internalID: -2572103949538223121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 899
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca307264e4f2c9a489b33b099966e85c
+      internalID: -3517020123149521312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 449
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e8b8f487c7ab448683fdf25959486
+      internalID: 8252838135905099736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 449
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85216592565ff9c41ae8ea84442420a9
+      internalID: 7716726526584371336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 449
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ef7d9d2e3629448c0fdfe7b42f857
+      internalID: -8617191626270009006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 449
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ee9c2b41f7cc4fa879cb5add39b78
+      internalID: -5680529957956305171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_22
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 449
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d825a24fe2c11a42a5746a691854f6e
+      internalID: -1571110308279328597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_23
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 449
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d432cccc31e83f84487314e366f39fa2
+      internalID: -4062762596063760618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e571231f574540ae45fbe7627ea74
+      internalID: 341058728453134442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb1426fb70dc94599c7d46c6dec1a2
+      internalID: 6741955668172876819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db202ef521a8d5b42ae76f21c6f0b865
+      internalID: 8565292640712555976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e8ab920fc5f94d91ba86c2d91bb2e
+      internalID: 5174247077601846176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_28
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 190
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e4d013fa1c3f42a0b3c5fef26089a
+      internalID: -8604168057929501353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stay_0_29
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 189
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e01d01c1ad907341852675ae073c0ca
+      internalID: 3675731070741943331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
