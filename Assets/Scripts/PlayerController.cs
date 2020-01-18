@@ -9,6 +9,9 @@ public class PlayerController : MonoBehaviour
     public float HEIGHT = 18200f;
     public LayerMask whatIsGround;
     public Transform groundCheck;
+    public GameObject mushroom;
+    public HealthBar healthBar;
+    public bool grounded;
 
     private new Rigidbody2D rigidbody;
     private SpriteRenderer sprite;
@@ -16,9 +19,9 @@ public class PlayerController : MonoBehaviour
 
     private float isMove;
     private float groundRadius = 0.8f;
-    public bool grounded;
 
-    // Start is called before the first frame update
+    public bool moveLeft = false;
+
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -26,10 +29,11 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, whatIsGround);
+
+        anim.SetBool("isGround", grounded);
         
         isMove = Input.GetAxis("Horizontal");
         go();
@@ -46,6 +50,8 @@ public class PlayerController : MonoBehaviour
     private void Shoot()
     {
         anim.SetTrigger("Shoot");
+        GameObject newMushroom = Instantiate(mushroom, new Vector2(transform.position.x + 30 * (moveLeft ? -1.0f : 1.0f), transform.position.y), Quaternion.Euler(0, 0, 270));
+        if (moveLeft) newMushroom.GetComponent<SpriteRenderer>().flipY = true;
     }
 
     private void go()
@@ -63,10 +69,21 @@ public class PlayerController : MonoBehaviour
         if (isMove < 0)
         {
             sprite.flipX = true;
+            moveLeft = true;
         }
         if (isMove > 0)
         {
             sprite.flipX = false;
+            moveLeft = false;
         }        
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "mushroom")
+        {
+            healthBar.health -= 20;
+        }
+    }
+
 }
