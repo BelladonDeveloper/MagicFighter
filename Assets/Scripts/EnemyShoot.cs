@@ -10,7 +10,7 @@ public class EnemyShoot : MonoBehaviour
 
     void FixedUpdate()
     {
-        StartCoroutine("Shoot");
+        StartCoroutine(Shoot());
     }
 
     private IEnumerator Shoot()
@@ -18,8 +18,8 @@ public class EnemyShoot : MonoBehaviour
         timer += Time.deltaTime;
         while (timer >= 1.0f)
         {
-            GameObject leftMushroom = Instantiate(mushroom, 
-                new Vector2(transform.position.x + 50 * -1.0f, transform.position.y), 
+            GameObject leftMushroom = Instantiate(mushroom,
+                new Vector2(transform.position.x + 50 * -1.0f, transform.position.y),
                 Quaternion.Euler(0, 0, 270));
             leftMushroom.GetComponent<SpriteRenderer>().flipY = true;
 
