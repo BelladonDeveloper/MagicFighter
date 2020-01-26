@@ -10,7 +10,7 @@ public class EnemyShoot : MonoBehaviour
 
     void FixedUpdate()
     {
-        StartCoroutine(Shoot());
+        StartCoroutine("Shoot");
     }
 
     private IEnumerator Shoot()
